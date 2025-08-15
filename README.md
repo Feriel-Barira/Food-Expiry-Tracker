@@ -36,7 +36,7 @@ git clone https://github.com/Feriel-Barira/Food-Expiry-Tracker.git
 cd Food-Expiry-Tracker
 npm install
 ```
-## Running locally
+### Running locally
 ```bash
 npm start
 ```
